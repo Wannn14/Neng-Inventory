@@ -1,0 +1,20 @@
+/* src/App.css */
+
+/* . {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f9fa; /* Warna latar belakang untuk memperjelas area */
+  
+  .table-container {
+    width: 80%;
+    max-width: 800px; /* Maksimal lebar tabel */
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  

@@ -1,0 +1,18 @@
+body {
+    overflow-y: hidden; 
+    overflow-x: hidden; 
+   }
+
+.box-login {
+    background-color: #035d85;
+    color: white;
+}
+
+
+.login-btn {
+    border: none;
+    background-color: #293fa9;
+    color: white;
+    width: 100%;
+    font-size: 1.2rem;
+}
